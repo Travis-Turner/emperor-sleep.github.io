@@ -1,0 +1,10 @@
+.header-title {
+    text-align: center;
+    color: #ffffff;
+    font-size: 64px;
+    font-family: HoltwoodOneSC-Regular
+}
+@font-face {
+    font-family: 'HoltwoodOneSC-Regular';
+    src: local('HoltwoodOneSC-Regular'), url(../../fonts/HoltwoodOneSC-Regular.ttf) format('truetype');
+}

@@ -1,0 +1,38 @@
+.infoForm-text {
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.infoForm-form {
+  display: flex;
+  justify-content: center;
+}
+.infoForm-button {
+	background-color:transparent;
+	border-radius:8px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color: white;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:22px;
+    font-weight: bold;
+	padding:16px 32px;
+	text-decoration:none;
+}
+.infoForm-button:hover {
+	background-color:transparent;
+}
+.infoForm-button:active {
+	position:relative;
+	top:1px;
+}
+.infoForm-input {
+    font-size: 32px;
+    width: 30%;
+    margin-right: 10px;
+    border-radius: 8px;
+    border: none;
+}
